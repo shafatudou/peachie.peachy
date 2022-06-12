@@ -1,0 +1,77 @@
+body {
+    margin: 0;
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    line-height: 20px;
+    color: #7C7C7C;
+}
+
+h1,
+h6,
+h5,
+
+h1 {
+    font-size: 60px;
+    line-height: 60px;
+    color: #333333;
+    padding: 25px 0 25px 0;
+    font-family: "Changa One";
+}
+
+h6 {
+    font-size: 15px;
+    font-family: 'Trebuchet MS';
+    color: #7C7C7C;
+    line-height: 20px;
+    padding: 0 0 0 0;
+}
+
+h5 {
+    color: #7C7C7C;
+    font-size: 15px;
+    font-family: 'Trebuchet MS';
+    font-style: italic;
+    padding: 5px 0 5px 0;
+}
+
+
+
+/* contacts */
+
+.contacts {
+    color: #7c7c7c;
+    padding: 1em;
+    overflow: auto;
+    position: relative;
+}
+
+#blue {
+    color: #2fa0d5;
+}
+
+input#nameword.form-control {
+    width: 350px;
+}
+
+input#emailword.form-control {
+    width: 350px;
+}
+
+input#subjectword.form-control {
+    width: 350px;
+}
+
+input#messageword.form-control {
+    width: 1110px;
+    height: 150px;
+}
+
+ul#flex-container li {
+    display: inline-block;
+    float: right;
+    padding-left: 10px; 
+}
+
+
+
+/* Define your styles here */

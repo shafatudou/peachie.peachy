@@ -1,0 +1,22 @@
+.space_raito {
+    display: inline;
+    margin-right: 40px;
+    margin-left: 5px;
+}
+
+#main .container .row p a {
+    text-decoration: none;
+}
+button#googleplus {
+    margin-right: 10px;
+    background-color: #fff;
+    padding: 1px 5px;
+    height: 20px;
+    border-style: solid;
+    border-width: 0.1px;
+}
+div#banner {
+    background: url(../images/bg_slider.gif) center bottom repeat;
+    text-align: center;
+    padding: 0.3em;
+}
